@@ -1,5 +1,5 @@
 ---
-title: Distance between two points
+title: Non-Degenerate Triangle
 tags: math,algorithm
 expertise: beginner
 cover: blog_images/measuring.jpg
